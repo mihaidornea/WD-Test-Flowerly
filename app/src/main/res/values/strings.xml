@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Flowerly</string>
+    <string name="your_orders">Your orders:</string>
 </resources>
